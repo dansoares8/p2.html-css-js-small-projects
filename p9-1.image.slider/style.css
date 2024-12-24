@@ -67,17 +67,16 @@ li:nth-child(7){
     opacity: 0;
 }
 li .details{
-    position: relative;
+    position: absolute;
     top: 50%;
-    color: black;
+    color: white;
     font-size: 0.5rem;
-    display: flex;
+    display: none;
 }
 li:nth-child(2) .details{ 
     display: inline-block;
     font-size: 0.9rem;
     left: 5rem;
-    animation: identifier 1s ease forwards;
 }
 @keyframes identifier{
     from{
@@ -94,7 +93,7 @@ li:nth-child(2) .details{
 li:nth-child(2) .details h1{
     font-size: 3rem;
     text-transform: uppercase;
-    font-weight: 800;
+    font-weight: 600;
 }
 li:nth-child(2) .details p{
     width: 25rem;
