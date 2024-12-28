@@ -2,7 +2,7 @@
 let workTittle = document.getElementById('work');
 let breakTittle = document.getElementById('break');
 
-let workTime = 25;
+let workTime = 26;
 let breakTime = 5;
 
 let seconds = "00";
@@ -12,7 +12,7 @@ window.onload = () => {
     document.getElementById('minutes').innerHTML = workTime;
     document.getElementById('seconds').innerHTML = seconds;
 
-    workTittle.classList.add('active');
+    workTittle.classList.add('active'); 
 }
 
 //start timer
@@ -58,7 +58,7 @@ function start(){
 
                     //change the painel
                     breakTittle.classList.remove('active');
-                    workTittle.classList.remove('active');                    
+                    workTittle.classList.add('active');                    
                 }
             }
             seconds = 59;
