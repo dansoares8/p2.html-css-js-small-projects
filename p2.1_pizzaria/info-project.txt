@@ -1,7 +1,8 @@
 projeto em partes: 14 partes.
 parte 1: ok
 parte 2: ok
-parte 3: 
+parte 3: ok
+parte 4: não iniciado
 
 
 O objetivo desse projeto é fazer a interface funcionar (O FRONT).
