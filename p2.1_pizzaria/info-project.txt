@@ -1,0 +1,9 @@
+projeto em partes: 14 partes.
+parte 1: ok
+parte 2: ok
+parte 3: 
+
+
+O objetivo desse projeto é fazer a interface funcionar (O FRONT).
+O objetivo, no momento, é criar uma interface com HTML, CSS e Javascript com JSON.
+No futuro, este projeto será usado para criar uma loja virtual funcional.
