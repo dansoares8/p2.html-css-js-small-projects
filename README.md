@@ -1,2 +1,4 @@
-# p9.modal
- Criação de um modal do zero, usando HTML, CSS e Javascript.
+-Projeto: p2.5_urna_eletronica (Em desenvolvimento) - 8 partes.
+--Parte 1: ok
+--Parte 2: ok
+--Parte 3: não iniciada.
